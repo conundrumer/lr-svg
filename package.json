@@ -1,0 +1,16 @@
+{
+  "name": "lr-svg-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Lu",
+  "license": "ISC",
+  "dependencies": {
+    "svg-path-to-polygons": "^0.1.0",
+    "svgpath": "^2.2.1",
+    "xml2js": "^0.4.19"
+  }
+}
